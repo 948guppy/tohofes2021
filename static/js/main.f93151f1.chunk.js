@@ -1,2 +1,0 @@
-(this.webpackJsonptohofes2021=this.webpackJsonptohofes2021||[]).push([[0],{54:function(e,t,n){e.exports=n(55)},55:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),c=n(17),a=n.n(c),s=n(24),u=function(){return o.a.createElement(s.ThemeProvider,{theme:Object(s.createTheme)()},o.a.createElement("div",null,"My Project"))};a.a.render(o.a.createElement(u,null),document.querySelector("#root"))}},[[54,1,2]]]);
-//# sourceMappingURL=main.f93151f1.chunk.js.map
